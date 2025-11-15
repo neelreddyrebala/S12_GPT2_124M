@@ -4,6 +4,9 @@ This project trains a GPT-2-small–style decoder-only model (~124M parameters) 
 using a warmup + cosine learning rate schedule. The training loop stops early once the
 **training loss** drops below **0.099999**, matching the assignment requirement.
 
+**Target loss of 0.099999 achieved at step 6034! Final Loss: 0.0883
+**
+
 ## Files
 
 - `input.txt` — training corpus (provided by ERA; already included here).
