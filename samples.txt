@@ -1,0 +1,15 @@
+Using device: cuda
+
+=== SAMPLE GENERATION ===
+Hello, my name is?
+
+KING RICHARD III:
+ dumbant, am I king?
+
+RATCLIFF:
+ Earl of Warwick, receive the mind to Bolingbroke,
+And divays back your dueicialsworn:
+Against theERD avoided grace, those seize cries.
+
+KING RICHARD III:
+O, be thou gingerThink'st thou o'
